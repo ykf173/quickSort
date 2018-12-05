@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543967726 source:e:\my_c_arithmetic\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
